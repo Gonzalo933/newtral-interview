@@ -1,0 +1,4 @@
+[core]
+    remote = syncthing
+['remote "syncthing"']
+    url = /home/gonzalo/Sync/dvc/newtral
