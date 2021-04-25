@@ -4,3 +4,4 @@ pandas==1.0.1
 nltk==3.6.2
 lxml==4.4.1
 beautifulsoup4==4.8.1
+mlflow==1.15.0
